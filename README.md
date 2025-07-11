@@ -44,3 +44,7 @@ b. Melakukan ETL menggunakan Python & Atoti
 a. Membangun Cube OLAP untuk analisis multidimensional
 
 b. Visualisasi metrik ekonomi dengan Atoti dan Matplotlib
+
+
+
+
